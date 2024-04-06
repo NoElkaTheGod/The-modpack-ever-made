@@ -3,7 +3,6 @@ asm/
 crash-reports/
 llibrary/
 logs/
-resourcepacks/
 saves/
 server-resource-packs/
 shaderpacks/
@@ -15,6 +14,7 @@ XaeroWorldMap/
 crafttweaker.log
 options.txt
 optionsof.txt
+*.log
 servers.dat
 servers.dat.bak
 usercache.json

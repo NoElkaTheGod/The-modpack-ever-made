@@ -63,6 +63,8 @@
     "minecraft:taiga_cold_hills": "SNOW_PINES_HILLS",
     "minecraft:taiga_hills": "PINES_HILLS",
     "minecraft:void": "END_VOID",
+    "openterraingenerator:overworld_forestenchanted": "FOREST",
+    "openterraingenerator:overworld_uplands": "PINES",
     "thaumcraft:eerie": "PLAINS",
     "thaumcraft:eldritch": "PLAINS",
     "thaumcraft:magical_forest": "TC_MAGICAL",

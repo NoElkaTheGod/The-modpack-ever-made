@@ -1,0 +1,16 @@
+{"valid_fluids": [{
+ "efficiency": 2,
+ "fluid": "rocket_fuel"
+},
+{
+ "efficiency": 1.2,
+ "fluid": "gasoline"
+},
+{
+ "efficiency": 1.0,
+ "fluid": "diesel"
+},
+{
+ "efficiency": 0.9,
+ "fluid": "biodiesel"
+}]}

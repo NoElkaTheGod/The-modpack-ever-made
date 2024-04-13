@@ -12,6 +12,7 @@ recipes.removeShaped(<car:car_workshop>, [[<minecraft:iron_ingot>, <minecraft:ir
 recipes.removeShaped(<railcraft:locomotive_steam_solid>, [[<railcraft:tank_iron_wall>, <railcraft:tank_iron_wall>, <railcraft:blast_furnace>],[<railcraft:tank_iron_wall>, <railcraft:tank_iron_wall>, <railcraft:blast_furnace>], [<minecraft:iron_bars>, <minecraft:minecart>, <minecraft:minecart>]]);
 //Don't touch me!
 //#Add
+recipes.addShaped(<railcraft:locomotive_electric>, [[null, <ore:plateElectrum>, <ore:plateElectrum>],[<ore:plateElectrum>, <ore:blockRedstone>, <thaumcraft:mind>], [<railcraft:charge:5>, <minecraft:minecart>, <immersiveengineering:metal_device0:1>]]);
 furnace.addRecipe(<railcraft:ingot:8>, <astralsorcery:itemcraftingcomponent:1>, 0.0);
 furnace.addRecipe(<railcraft:ingot:2>, <botania:manaresource>, 0.0);
 recipes.addShaped(<car:battery>, [[<ore:ingotEnergeticAlloy>, null, <ore:ingotEnergeticAlloy>],[<ore:ingotSteel>, <ore:ingotElectrum>, <ore:ingotSteel>], [<ore:ingotSteel>, <immersiveengineering:metal_device0:2>, <ore:ingotSteel>]]);
@@ -22,5 +23,4 @@ recipes.addShaped(<railcraft:engine_steam_high>, [[<immersiveengineering:materia
 recipes.addShaped(<railcraft:engine_steam_low>, [[<immersiveengineering:material:8>, <minecraft:piston>, <immersiveengineering:metal_device1:2>],[<enderio:item_material:11>, <immersiveengineering:material:1>, <enderio:item_material:11>], [<immersiveengineering:metal_device0:4>, <minecraft:piston>, <immersiveengineering:material:8>]]);
 recipes.addShaped(<railcraft:engine_steam_hobby>, [[<immersiveengineering:material:8>, <minecraft:piston>, <immersiveengineering:metal_device1:2>],[<enderio:item_material:9>, <immersiveengineering:material>, <enderio:item_material:9>], [<immersiveengineering:wooden_device0:1>, <minecraft:piston>, <immersiveengineering:material:8>]]);
 recipes.addShaped(<railcraft:locomotive_steam_solid>, [[<immersiveengineering:sheetmetal:8>, <ore:blockSheetmetalSteel>, <ore:gearIronInfinity>],[<immersiveengineering:sheetmetal:8>, <immersiveengineering:sheetmetal:8>, <astralsorcery:itemcraftingcomponent:1>], [<enderio:item_material:11>, <minecraft:minecart>, <thaumcraft:mind>]]);
-recipes.addShaped(<railcraft:locomotive_electric>, [[<botania:manaresource>, <ore:ingotElectrum>, <ore:ingotElectrum>],[<thaumcraft:mind>, <railcraft:charge:5>, <immersiveengineering:metal_device0:1>], [<enderio:item_material:13>, <minecraft:minecart>, <enderio:item_material:13>]]);
 //File End

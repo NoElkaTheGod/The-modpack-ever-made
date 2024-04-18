@@ -33,10 +33,6 @@
     "antiqueatlas:sword": {},
     "antiqueatlas:tomb": {},
     "antiqueatlas:tower": {},
-    "antiqueatlas:village": {},
-    "ebwizardry:library_ruins": {},
-    "ebwizardry:obelisk": {},
-    "ebwizardry:shrine": {},
-    "ebwizardry:wizard_tower": {}
+    "antiqueatlas:village": {}
   }
 }
